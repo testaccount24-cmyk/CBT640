@@ -1,0 +1,8 @@
+2025-04-04 13:08:47.267782 - Received CBT.V508.FILE640.PDS from FILE640.XMI 
+2025-04-04 13:08:47.268551 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:08:47.268714 - Found $$$DOC.bin (application/octet-stream) in CBT.V508.FILE640.PDS, moved to PDS/$$$DOC
+2025-04-04 13:08:47.268867 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/$$NOTE1
+2025-04-04 13:08:47.269000 - Found @FILE640.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/@FILE640
+2025-04-04 13:08:47.269144 - Found GPL.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/GPL
+2025-04-04 13:08:47.269309 - Found VPSSEP.rexx (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/VPSSEP
+2025-04-04 13:08:47.269461 - Found VPSSEPX.txt (text/plain) in CBT.V508.FILE640.PDS, moved to PDS/VPSSEPX
